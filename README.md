@@ -14,3 +14,5 @@ This are some steps:
 5. Now sign the deployment manifest 
   > mage.exe –update Myapplication.application –appmanifest “Application Files\MyApplication_%Version%\Myapplication.exe.manifest” –certfile mycert.pfx 
 6. Done...!  
+
+Reference : https://blogs.msdn.microsoft.com/vsto/2009/04/29/signing-and-re-signing-manifests-in-clickonce-saurabh-bhatia/
